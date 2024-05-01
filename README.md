@@ -16,13 +16,13 @@
 <a href="https://linkedin.com/in/gauravkumarchaurasiya" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/gauravkumarchaurasiya" target="_blank">
+<a href="https://www.kaggle.com/gauravkuchaurasiya" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@gauravkumarchaurasiya" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/@gauravkumarchaurasiya2" target="_blank">
+<a href="https://www.youtube.com/@gauravkumarchaurasiya2" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
@@ -106,15 +106,11 @@ I'm a passionate Data Scientist. Currently pursuing a bachelor's degree in artif
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumarchaurasiya&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumarchaurasiya&hide_border=true&layout=compact" align="left" style=" width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
-
-<br/>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=gauravkumarchaurasiya&theme=algolia" alt="gauravkumarchaurasiya" /></p>
-<br />
 
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumarchaurasiya&" alt="gauravkumarchaurasiya" /></p>
