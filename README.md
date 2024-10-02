@@ -47,7 +47,7 @@ I'm a passionate Data Scientist. Currently pursuing a bachelor's degree in artif
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently learning Deep Learning Concepts  
+- 🔭 I’m currently learning Deep Learning and Gen AI Concepts  
   
 
 - ❓ Ask me about anything related to Data Science and related technologies  
@@ -70,7 +70,7 @@ I'm a passionate Data Scientist. Currently pursuing a bachelor's degree in artif
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/MsExcel" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/MsExcel-original-wordmark.svg" alt="MsExcel" height="25" /></a>  
+<!-- <a href="https://en.wikipedia.org/wiki/MsExcel" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/MsExcel-original-wordmark.svg" alt="MsExcel" height="25" /></a>   -->
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
@@ -98,23 +98,8 @@ I'm a passionate Data Scientist. Currently pursuing a bachelor's degree in artif
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gauravkumarchaurasiya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumarchaurasiya&hide_border=true&layout=compact" align="left" style=" width: 100%" />
-
-</td></tr></table>  
-
 <br/>  
 
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumarchaurasiya&" alt="gauravkumarchaurasiya" /></p>
-<br/>
   
 
 <br/>  
