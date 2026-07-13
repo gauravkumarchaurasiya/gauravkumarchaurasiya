@@ -30,7 +30,7 @@
 
 
 ### Glad to see you here!  
-I'm a passionate Data Scientist. Currently pursuing a bachelor's degree in artificial intelligence and data science, I'm dedicated to learning and exploring more in this field.  
+I'm a passionate Data Scientist. Having a bachelor's degree in artificial intelligence and data science, I'm dedicated to learning and exploring more in AI field.  
   
 
 
